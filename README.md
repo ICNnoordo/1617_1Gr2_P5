@@ -1,4 +1,6 @@
 # 1617_1Gr2_P5
 Projet P5 du groupe 2 de la classe ICN-1ère de 2016/2017
 
-Membre du groupe : - Hugo...
+Membres du groupe : 
+- Hugo,
+- Samuel.
